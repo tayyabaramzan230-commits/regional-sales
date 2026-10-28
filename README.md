@@ -83,3 +83,4 @@ pip install -r requirements-dev.txt && pytest -q
 | Out-of-memory on a small host | Use a ≥ 1 GB instance, or train only the hybrid / Gradient Boosting models |
 "# regional-sales" 
 "# sales-regional" 
+"# sales-ml-studio" 
