@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sales-ml-studio
+    runtime: docker
+    plan: starter   # the free plan's 512 MB RAM is tight for tree-model training
+    healthCheckPath: /_stcore/health
