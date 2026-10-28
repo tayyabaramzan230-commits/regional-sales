@@ -82,3 +82,4 @@ pip install -r requirements-dev.txt && pytest -q
 | Downloaded `.joblib` fails to load | Load it from a folder where `ml_utils.py` is importable (custom model class) |
 | Out-of-memory on a small host | Use a ≥ 1 GB instance, or train only the hybrid / Gradient Boosting models |
 "# regional-sales" 
+"# sales-regional" 
