@@ -86,3 +86,4 @@ pip install -r requirements-dev.txt && pytest -q
 "# sales-ml-studio" 
 "# sales-ml-studio" 
 "# regional-sales" 
+"# regional-sales" 
